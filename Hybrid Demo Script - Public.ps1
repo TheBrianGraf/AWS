@@ -334,7 +334,7 @@ Write-Host "
             Id = $library.Id
         }
         # Only save the the CL if it meets the below requirements (if we've already created this one)
-        if ($libraryResult.Type -eq "SUBSCRIBED" -and $libraryResult.Name -eq "VMC-DEMO-CL"){
+        if ($libraryResult.Type -eq "SUBSCRIBED" -and $libraryResult.Name -eq "VMC-DEMO-CL"){ # <-Change values for your environment
         
         # Add the content library to the results
         $results+=$libraryResult
