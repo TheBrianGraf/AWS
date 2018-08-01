@@ -1,0 +1,5 @@
+﻿username,password,User,Email,aws_region,IAM_Signin_Link,My_Access_Key,My_Secret_Access_Key
+user1@aws.ninja,AWS1!,Braden Wagner,Bradenwagner@gmail.com,eu-west-2,https://657283390293.signin.aws.amazon.com/console,AKIAIMK7UJSXEUHJ323A,mPR2nKnqafJwoaktHDd4WWTXiJ+B6YXzKh3yV8Qd
+user2@aws.ninja,AWS1!,Paulie Ortiz,Paulie@gmail.com,us-east-1,https://195127210854.signin.aws.amazon.com/console,AKIAJAS5ZLMGXS4LKEVQ,AEqGBtXeebjrAb8xT499hh7lrR3GymiXjwtp32HO
+user3@aws.ninja,AWS1!,Chris Tucker,ChrisGTucker@gmail.com,us-west-2,https://849225522956.signin.aws.amazon.com/console,AKIAJ2L4CREV4RN7Y6BB,qVQQ6D8zpQx3evwXgfSIdO5TCqNTUZ2sG+GBHlfh
+user4@aws.ninja,AWS1!,James Beauford,JBAwesome@gmail.com,us-west-2,https://218748164947.signin.aws.amazon.com/console,AKIAIYNBNRXYDE3I73GS,WfhGDjhx29G/JRBXzwfX8nRNmQK8HeODaWnBKKP7
